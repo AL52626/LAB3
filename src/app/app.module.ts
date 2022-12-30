@@ -1,4 +1,4 @@
-import {NgModule} from '@angular/core';
+import {NgModule, isDevMode} from '@angular/core';
 import {BrowserModule} from '@angular/platform-browser';
 
 import {routes} from './app-routing';
@@ -16,6 +16,7 @@ import {HttpClientModule} from "@angular/common/http";
 import {FormBuilder} from "@angular/forms";
 import {domain, clientID} from 'auth_config'
 import {APP_BASE_HREF} from "@angular/common";
+import { ServiceWorkerModule } from '@angular/service-worker';
 
 const env = environment;
 
@@ -37,7 +38,13 @@ const env = environment;
       clientId: clientID
     }),
     MatMenuModule,
-    BrowserAnimationsModule
+    BrowserAnimationsModule,
+    ServiceWorkerModule.register('ngsw-worker.js', {
+      enabled: !isDevMode(),
+      // Register the ServiceWorker as soon as the application is stable
+      // or after 30 seconds (whichever comes first).
+      registrationStrategy: 'registerWhenStable:30000'
+    })
   ],
   providers: [FormBuilder,{ provide: APP_BASE_HREF, useValue: '/' }],
   bootstrap: [AppComponent]

@@ -11,6 +11,7 @@ import {MatFormFieldModule} from "@angular/material/form-field";
 import {MatInputModule} from "@angular/material/input";
 import {MatButtonModule} from "@angular/material/button";
 import {RecaptchaModule} from "ng-recaptcha";
+import {WebcamModule} from "ngx-webcam";
 
 const routes: Route[] = [
 
@@ -37,7 +38,8 @@ const routes: Route[] = [
     MatInputModule,
     MatIconModule,
     MatButtonModule,
-    RecaptchaModule
+    RecaptchaModule,
+    WebcamModule
   ]
 })
 
