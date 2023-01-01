@@ -1,17 +1,6 @@
 {
   "$schema": "./node_modules/@angular/service-worker/config/schema.json",
   "index": "/index.html",
-  "routing": {
-    "index": "/index.html",
-    "routes": {
-      "/": {
-        "prefix": false
-      },
-      "/LAB3": {
-        "prefix": true
-      }
-    }
-  },
   "assetGroups": [
     {
       "name": "app",
