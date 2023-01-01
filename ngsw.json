@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1672405973171,
-  "index": "lab3/index.html",
+  "timestamp": 1672590362550,
+  "index": "LAB3/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,14 +11,14 @@
         "ignoreVary": true
       },
       "urls": [
-        "lab3/581.7f7171f4be2192c6.js",
-        "lab3/favicon.ico",
-        "lab3/index.html",
-        "lab3/main.d6a1c21303168754.js",
-        "lab3/manifest.webmanifest",
-        "lab3/polyfills.b2672498b299dddf.js",
-        "lab3/runtime.e1cc343d6be6a486.js",
-        "lab3/styles.e6937128fc07eb3c.css"
+        "LAB3/581.7f7171f4be2192c6.js",
+        "LAB3/favicon.ico",
+        "LAB3/index.html",
+        "LAB3/main.d6a1c21303168754.js",
+        "LAB3/manifest.webmanifest",
+        "LAB3/polyfills.b2672498b299dddf.js",
+        "LAB3/runtime.e1cc343d6be6a486.js",
+        "LAB3/styles.e6937128fc07eb3c.css"
       ],
       "patterns": []
     },
@@ -30,36 +30,36 @@
         "ignoreVary": true
       },
       "urls": [
-        "lab3/assets/icons/icon-128x128.png",
-        "lab3/assets/icons/icon-144x144.png",
-        "lab3/assets/icons/icon-152x152.png",
-        "lab3/assets/icons/icon-192x192.png",
-        "lab3/assets/icons/icon-384x384.png",
-        "lab3/assets/icons/icon-512x512.png",
-        "lab3/assets/icons/icon-72x72.png",
-        "lab3/assets/icons/icon-96x96.png"
+        "LAB3/assets/icons/icon-128x128.png",
+        "LAB3/assets/icons/icon-144x144.png",
+        "LAB3/assets/icons/icon-152x152.png",
+        "LAB3/assets/icons/icon-192x192.png",
+        "LAB3/assets/icons/icon-384x384.png",
+        "LAB3/assets/icons/icon-512x512.png",
+        "LAB3/assets/icons/icon-72x72.png",
+        "LAB3/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "lab3/581.7f7171f4be2192c6.js": "6bc01eb37cdd8c3cfa482d7049d0f58e631690f7",
-    "lab3/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "lab3/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "lab3/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "lab3/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "lab3/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "lab3/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "lab3/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "lab3/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "lab3/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "lab3/index.html": "f156d32476cb827341512b3607a5a70000571dd4",
-    "lab3/main.d6a1c21303168754.js": "17ba65d9a1acddbc8e75f685c1216bf92ca48910",
-    "lab3/manifest.webmanifest": "0ae75cdb92ef2dc3609de0db88b107f0369a025f",
-    "lab3/polyfills.b2672498b299dddf.js": "f6f6d98325767039c1397635de9f099e26fef61f",
-    "lab3/runtime.e1cc343d6be6a486.js": "63ebbb7e55607f0a3950e110753438d097627027",
-    "lab3/styles.e6937128fc07eb3c.css": "6a4d2cb1655ad53a08dc6b065a5a568c18101772"
+    "LAB3/581.7f7171f4be2192c6.js": "6bc01eb37cdd8c3cfa482d7049d0f58e631690f7",
+    "LAB3/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "LAB3/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "LAB3/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "LAB3/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "LAB3/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "LAB3/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "LAB3/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "LAB3/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "LAB3/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "LAB3/index.html": "9b9d4e5f03c9093f93d69fb60f95dd10908f00a2",
+    "LAB3/main.d6a1c21303168754.js": "17ba65d9a1acddbc8e75f685c1216bf92ca48910",
+    "LAB3/manifest.webmanifest": "0ae75cdb92ef2dc3609de0db88b107f0369a025f",
+    "LAB3/polyfills.b2672498b299dddf.js": "f6f6d98325767039c1397635de9f099e26fef61f",
+    "LAB3/runtime.e1cc343d6be6a486.js": "63ebbb7e55607f0a3950e110753438d097627027",
+    "LAB3/styles.e6937128fc07eb3c.css": "6a4d2cb1655ad53a08dc6b065a5a568c18101772"
   },
   "navigationUrls": [
     {
